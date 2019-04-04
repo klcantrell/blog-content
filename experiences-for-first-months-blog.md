@@ -1,4 +1,4 @@
-###### 1. Company gave me the title of "Apprentice"
+##### 1. Company gave me the title of "Apprentice"
 2. Company sent me a book about team culture as a gift a couple of weeks before my starting date
 3. President wrote a hand-written letter with advice on how to navigate the first days and weeks as a new person
 4. Company assigned me a personal guide on day one
